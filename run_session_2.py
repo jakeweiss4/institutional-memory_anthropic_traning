@@ -20,9 +20,10 @@ from anthropic import Anthropic
 
 # Match session 1
 TEST_QUESTION = (
-    "I just joined the company and I need read-only prod access to debug an "
-    "issue tomorrow. What do I do? Be specific about the steps and the people "
-    "I need to talk to."
+    "House Acme's Master of Coin Lady Sarah has sent a raven asking to discuss "
+    "a renewal proposal for the Grand Ledger platform. What should we know going "
+    "into that conversation? Who are the key contacts, what are the risks, and "
+    "what is our recommended strategy?"
 )
 
 DOCS_DIR = Path("synthetic-data/round2")
